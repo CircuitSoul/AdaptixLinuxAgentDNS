@@ -1,3 +1,5 @@
+**Read this in:** [Português](README.md) · [English](README.en.md)
+
 # AdaptixC2 — Listener DNS + Agente Linux
 
 Repositório com dois extenders usados em conjunto:
